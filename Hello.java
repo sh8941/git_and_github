@@ -10,3 +10,4 @@ public class Hello{
 // git tag can be push only using "git push origin version_number" not by simple code push
 // git branch "branch_name" : to create branch
 // git switch "branch_name" : to change between branch
+// git merge "branch_name" : to merge another branch in current branch
