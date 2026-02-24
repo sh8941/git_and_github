@@ -6,3 +6,4 @@ public class Hello{
 }
 // git diff: Working Directory  VS  Staging Area (text difference)
 // another line
+// git tag -a v1.0 -m "1st release" : used to tag a version
